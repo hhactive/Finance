@@ -1,2 +1,2 @@
 # Finance
-Projects from past two years I've done
+A few projects I've done
